@@ -73,3 +73,5 @@ foreign key (ORDE_ID) references ORDE(ORDE_ID)
 INSERT INTO PRODUCT_LIST (PRODUCT_NAME, PRODUCT_CODE, GENDER, PRICE) 
 VALUES ('Nike Air Max', 'P189K', 'M', '400'),
 ('Adidas Ultraboost', 'P211L', 'M', '350');
+
+SELECT * FROM PRODUCT_LIST;
