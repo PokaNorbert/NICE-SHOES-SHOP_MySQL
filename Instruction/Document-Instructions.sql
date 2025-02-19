@@ -69,3 +69,5 @@ DISCOUNT int,
 foreign key (PRODUCT_ID) references PRODUCT_LIST(ID),
 foreign key (ORDE_ID) references ORDE(ORDE_ID)
 );
+
+INSERT INTO PRODUCT_LIST (PRODUCT_NAME, PRODUCT_CODE, GENDER, PRICE) 
