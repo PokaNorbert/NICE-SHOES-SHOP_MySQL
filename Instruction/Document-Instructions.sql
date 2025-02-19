@@ -75,3 +75,5 @@ VALUES ('Nike Air Max', 'P189K', 'M', '400'),
 ('Adidas Ultraboost', 'P211L', 'M', '350');
 
 SELECT * FROM PRODUCT_LIST;
+
+DELETE FROM PRODUCT_LIST WHERE ID='1';
