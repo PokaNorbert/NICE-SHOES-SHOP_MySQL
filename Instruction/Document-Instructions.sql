@@ -256,6 +256,8 @@ INSERT INTO ORDE_PRODUCT VALUES (1, 3, 1, 0),
 (40, 9, 1, 0),
 (41, 2, 1, 0);
 
+#ultima..
+
 # Displaying all columns in a table
 SELECT * FROM PRODUCT_LIST;
 
@@ -288,8 +290,8 @@ WHERE PRICE <= 400;
 
 SELECT PRODUCT_CODE, PRICE 
 FROM PRODUCT_LIST
-WHERE PRICE != 400;      
-
+WHERE PRICE != 400;                   
+                           
 # NUMERICAL SORTING, DESCENDING -- ORDER BY
 
 SELECT * 
@@ -318,8 +320,7 @@ SELECT *
 FROM PRODUCT_LIST
 WHERE GENDER = 'F'
 ORDER BY PRODUCT_CODE ASC
-LIMIT 2;  
-
+LIMIT 2;                           
                            
 # Aggregate functions: AVG, SUM, COUNT, MIN, MAX
 
@@ -365,7 +366,6 @@ AND LASTNAME = 'BOTEZATU';
 SELECT FIRSTNAME, LASTNAME, MIN(ORDE_DATE)
 FROM ORDE
 WHERE FIRSTNAME = 'ALIN'
-GROUP BY FIRSTNAME, LASTNAME;       
-
+GROUP BY FIRSTNAME, LASTNAME;   
 
 
