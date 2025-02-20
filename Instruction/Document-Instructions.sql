@@ -256,8 +256,6 @@ INSERT INTO ORDE_PRODUCT VALUES (1, 3, 1, 0),
 (40, 9, 1, 0),
 (41, 2, 1, 0);
 
-#ultima..
-
 # Displaying all columns in a table
 SELECT * FROM PRODUCT_LIST;
 
