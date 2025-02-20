@@ -86,7 +86,11 @@ DELETE FROM PRODUCT_LIST WHERE ID='1';
 
 ALTER TABLE PRODUCT_LIST DROP COLUMN PRODUCT_DESCRIPTION;
 
-
+INSERT INTO COLORS VALUES (1, 'WHITE'), 
+						(2, 'GRAY'),
+                        (3, 'DARK GREEN'),
+                        (4, 'ORANGE'),
+                        (5, 'PURPLE');
 
 
 
