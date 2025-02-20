@@ -320,7 +320,52 @@ WHERE GENDER = 'F'
 ORDER BY PRODUCT_CODE ASC
 LIMIT 2;  
 
+                           
+# Aggregate functions: AVG, SUM, COUNT, MIN, MAX
 
+# Displaying the maximum price among all products
+
+SELECT MAX(PRICE) 
+FROM PRODUCT_LIST;
+
+# Displaying the minimum price among all products
+
+SELECT MIN(PRICE)
+FROM PRODUCT_LIST;
+
+# How many products do I have in my list/stock?
+
+SELECT COUNT(*) 
+FROM PRODUCT_LIST;
+
+# What is the average price?
+
+SELECT AVG(PRICE)
+FROM PRODUCT_LIST;
+
+# What is the minimum order date?
+
+SELECT MIN(ORDE_DATE) 
+FROM ORDE;
+
+# What is the highest (most recent) date of an order? 
+
+SELECT MAX(ORDE_DATE)
+FROM ORDE;                                  
+                           
+# When was the first order placed by Alin Botezatu?
+
+SELECT FIRSTNAME, LASTNAME, MIN(ORDE_DATE)
+FROM ORDE
+WHERE FIRSTNAME = 'ALIN'
+AND LASTNAME = 'BOTEZATU';                           
+
+# Bonus GROUP BY:    
+                       
+SELECT FIRSTNAME, LASTNAME, MIN(ORDE_DATE)
+FROM ORDE
+WHERE FIRSTNAME = 'ALIN'
+GROUP BY FIRSTNAME, LASTNAME;       
 
 
 
