@@ -72,10 +72,37 @@ foreign key (ORDE_ID) references ORDE(ORDE_ID)
 
 INSERT INTO PRODUCT_LIST (PRODUCT_NAME, PRODUCT_CODE, GENDER, PRICE) 
 VALUES ('Nike Air Max', 'P189K', 'M', '400'),
-('Adidas Ultraboost', 'P211L', 'M', '350');
+('Adidas Ultraboost', 'P211L', 'M', '350'), 
+('New Balance 574', 'P345B', 'M', '380'),
+('Salomon Speedcross', 'P451W', 'M', '550'),
+('Nike Pegasus', 'P195P', 'F', '450'),
+('Puma RS-X', 'P555D', 'F', '300'),
+('Reebok Club C', 'P623G', 'F', '350'),
+('Adidas Superstar', 'P222L', 'F', '480');
 
-SELECT * FROM PRODUCT_LIST;
+SELECT * FROM PRODUCT_COLORS;
 
 DELETE FROM PRODUCT_LIST WHERE ID='1';
 
 ALTER TABLE PRODUCT_LIST DROP COLUMN PRODUCT_DESCRIPTION;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
