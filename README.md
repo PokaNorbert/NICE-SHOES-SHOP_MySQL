@@ -64,3 +64,7 @@ In order to simulate various scenarios that might happen in real life I created 
 
 *********
 
+
+## Conclusions
+
+In conclusion, ..
