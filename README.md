@@ -1,22 +1,4 @@
 # NICE-SHOES SHOP-Database-MySQL
-The ISTQB is taken from December 16, 2024. Some lines need to be rewritten, so the entire update will be completed between February 17-27.
-
-for any questions you can contact me here or on:
-mail (orbert.pn@gmail.com),
-
-LinkedIn,
-
-Facebook,
-
-Instagram,
-
-Discord
-
-or TikTok:
-
-PNorbert - pnorbert_official - PokaNorbert - pokanorbert - ponorbert
-
-
 ## Database Project for **Online bookstore**
 The scope of this project is to use all the SQL knowledge gained throught the Software Testing course and apply them in practice.
 
