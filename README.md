@@ -33,3 +33,34 @@ The following instructions were written in the scope of CREATING the structure o
 
 *
 
+
+### DML (Data Manipulation Language)
+
+In order to be able to use the database I populated the tables with various data necessary in order to perform queries and manipulate the data. 
+In the testing process, this necessary data is identified in the Test Design phase and created in the Test Implementation phase. 
+
+Below you can find all the insert instructions that were created in the scope of this project:
+
+
+*
+
+
+*****After the insert, in order to prepare the data to be better suited for the testing process, I updated some data in the following way:
+
+
+*
+
+
+*****After the testing process, I deleted the data that was no longer relevant in order to preserve the database clean: 
+
+
+*
+
+
+### DQL (Data Query Language)
+
+
+In order to simulate various scenarios that might happen in real life I created the following queries that would cover multiple potential real-life situations:
+
+*********
+
