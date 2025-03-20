@@ -70,4 +70,4 @@ In order to simulate various scenarios that might happen in real life I created 
 
 ## Conclusions
 
-In conclusion, ..
+In conclusion, I realized that I like working with databases. In this regard, I will publish new projects or solved exercises related to working with databases in the future. In order to develop my database skills, it is necessary to participate in similar projects that belong to other people or groups of people or even work within a company (in this case, I turn my engines to maximum speed to be able to learn as quickly as possible).
