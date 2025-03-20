@@ -8,7 +8,7 @@ The scope of this project is to use all the SQL knowledge gained throught the So
 **Database description:** The online shoe store aims to sell exclusively shoes for men and women, excluding clothing and other clothing items. All products can be ordered at any time using the website that is made available to customers. However, this does not guarantee that orders will be processed immediately, given the fact that it is an online store at the beginning of its journey with reduced staff.
 
 ## About database (Initial Excel-Scheme, MySQL-Schema, Queries: DDL, DML, DQL)
-I worked in MySQL also with the help of the initial schema prepared in Excel:
+I worked in MySQL also with the help of the initial scheme prepared in Excel:
 
 [Initial-Scheme_Excel-MySQL](https://github.com/PokaNorbert/NICE-SHOES-SHOP_MySQL/blob/main/NICE-SHOES%20SHOP_Initial-Scheme_Excel-MySQL.xlsx) 
 
