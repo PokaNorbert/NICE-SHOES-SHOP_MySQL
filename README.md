@@ -13,6 +13,10 @@ By clicking on the following link, you can view everything I have added to MySQL
 
 [Instruction](https://github.com/PokaNorbert/NICE-SHOES-SHOP_MySQL/tree/main/Instruction)
 
+The following diagram shows the relationships between tables, basically the database schema:
+
+https://github.com/PokaNorbert/NICE-SHOES-SHOP_MySQL/tree/main/Diagrams
+
 I worked in MySQL also with the help of the initial schema prepared in Excel:
 
 [Initial-Scheme_Excel-MySQL](https://github.com/PokaNorbert/NICE-SHOES-SHOP_MySQL/blob/main/NICE-SHOES%20SHOP_Initial-Scheme_Excel-MySQL.xlsx)
