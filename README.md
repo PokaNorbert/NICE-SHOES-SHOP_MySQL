@@ -2,11 +2,11 @@
 ## Database Project for **Nice-Shoes Shop**
 The scope of this project is to use all the SQL knowledge gained throught the Software Testing course and apply them in practice.
 
-Application under test: Nice-Shoes Shop
+**Application** under test: Nice-Shoes Shop
 
-Tools used: MySQL Workbench
+**Tools** used: MySQL Workbench
 
-Database description: The bookstore online has the purpose to sell books content on electronic format. There are so many books categories such : Books for kids, Personal development, IT. All the books are able to be ordered starting from Monday to saturday at every hour. The orders placed on a non working day it will be processed in the first working day.
+**Database description:** The bookstore online has the purpose to sell books content on electronic format. There are so many books categories such : Books for kids, Personal development, IT. All the books are able to be ordered starting from Monday to saturday at every hour. The orders placed on a non working day it will be processed in the first working day.
 
 ## Database Schema 
 
