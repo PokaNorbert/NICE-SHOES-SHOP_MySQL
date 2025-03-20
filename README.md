@@ -1,4 +1,3 @@
-# NICE-SHOES SHOP-Database-MySQL
 ## Database Project for **Nice-Shoes Shop**
 The scope of this project is to use all the SQL knowledge gained throught the Software Testing course and apply them in practice.
 
