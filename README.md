@@ -11,9 +11,8 @@ The scope of this project is to use all the SQL knowledge gained throught the So
 
 
 
-We also worked with the initial scheme prepared in Excel:
-
-
+I worked in MySQL also with the help of the initial schema prepared in Excel:
+[Initial-Scheme_Excel-MySQL](https://github.com/PokaNorbert/NICE-SHOES-SHOP_MySQL/blob/main/NICE-SHOES%20SHOP_Initial-Scheme_Excel-MySQL.xlsx)
 
 ## Conclusions
 
