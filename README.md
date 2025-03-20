@@ -10,7 +10,7 @@ The scope of this project is to use all the SQL knowledge gained throught the So
 ## About database (Initial schema, Schema, Queries: DDL, DML, DQL)
 I worked in MySQL also with the help of the initial schema prepared in Excel:
 
-[Initial-Scheme_Excel-MySQL](https://github.com/PokaNorbert/NICE-SHOES-SHOP_MySQL/blob/main/NICE-SHOES%20SHOP_Initial-Scheme_Excel-MySQL.xlsx)
+<li>[Initial-Scheme_Excel-MySQL](https://github.com/PokaNorbert/NICE-SHOES-SHOP_MySQL/blob/main/NICE-SHOES%20SHOP_Initial-Scheme_Excel-MySQL.xlsx)</li>
 
 By clicking on the following link, you can view everything I have added to MySQL Workbench to be able to work on this project:
 
