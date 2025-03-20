@@ -16,7 +16,6 @@ I worked in MySQL also with the help of the initial schema prepared in Excel:
 [Initial-Scheme_Excel-MySQL](https://github.com/PokaNorbert/NICE-SHOES-SHOP_MySQL/blob/main/NICE-SHOES%20SHOP_Initial-Scheme_Excel-MySQL.xlsx)
 
 ## Conclusions
-
 In conclusion, I realized that I like working with databases. With the help of this project, I was able to realize what knowledge I have managed to acquire so far in working with databases. 
 
 In this regard, I will publish new projects or solved exercises related to working with databases in the future. In order to develop my work skills with databases, it is necessary to participate in similar projects that belong to other people or groups of people or even work within a company (in this case, I turn my engines to maximum speed to be able to learn as quickly as possible).
