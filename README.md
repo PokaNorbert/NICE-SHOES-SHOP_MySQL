@@ -13,6 +13,8 @@ The scope of this project is to use all the SQL knowledge gained throught the So
 
 We also worked with the initial scheme prepared in Excel:
 
+
+
 ## Conclusions
 
 In conclusion, I realized that I like working with databases. With the help of this project, I was able to realize what knowledge I have managed to acquire so far in working with databases. 
