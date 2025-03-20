@@ -14,7 +14,7 @@ I worked in MySQL also with the help of the initial schema prepared in Excel:
 
 By clicking on the following link, you can view everything I have added to MySQL Workbench to be able to work on this project:
 
-[Instruction](https://github.com/PokaNorbert/NICE-SHOES-SHOP_MySQL/tree/main/Instruction)
+[Instruction](https://github.com/PokaNorbert/NICE-SHOES-SHOP_MySQL/blob/main/Instruction/Document-Instructions.sql)
 
 The following diagram shows the relationships between tables, basically the database schema (after clicking on the link, you need to select a file; they are in pdf and png format):
 
