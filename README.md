@@ -5,9 +5,10 @@ The scope of this project is to use all the SQL knowledge gained throught the So
 
 **Tools** used: MySQL Workbench
 
-**Database description:** The bookstore online has the purpose to sell books content on electronic format. There are so many books categories such : Books for kids, Personal development, IT. All the books are able to be ordered starting from Monday to saturday at every hour. The orders placed on a non working day it will be processed in the first working day.
+**Database description:** The online shoe store aims to sell exclusively shoes for men and women, excluding clothing and other clothing items. All products can be ordered at any time using the website that is made available to customers. However, this does not guarantee that orders will be processed immediately, given the fact that it is an online store at the beginning of its journey with reduced staff.
 
-## Database Schema 
+## About database
+
 
 
 ## Conclusions
